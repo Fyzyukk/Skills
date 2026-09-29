@@ -1,0 +1,3 @@
+interface:
+  display_name: "OPUS Kernel Integration"
+  short_description: "Integrate, tune, and validate OPUS kernels"
